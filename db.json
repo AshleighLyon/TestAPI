@@ -8,7 +8,7 @@
       "priority": "High"
     },
     {
-      "projectname": "HAZOP 005",
+      "projectname": "Flare Gas Pilot Project",
       "actionsummary": "Install blind without tap-in on connection.",
       "duedate": "02/11/2019",
       "stretegicreviewduedate": "23/10/2019",
@@ -23,6 +23,76 @@
     },
     {
       "projectname": "HAZOP 022",
+      "actionsummary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
+      "duedate": "17/10/2019",
+      "stretegicreviewduedate": "17/10/2019",
+      "priority": "High"
+    },
+    {
+      "projectname": "HAZOP 012",
+      "actionsummary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
+      "duedate": "12/10/2019",
+      "stretegicreviewduedate": "04/11/2019",
+      "priority": "Med"
+    },
+    {
+      "projectname": "Energy Saving Project",
+      "actionsummary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
+      "duedate": "17/10/2019",
+      "stretegicreviewduedate": "17/10/2019",
+      "priority": "High"
+    },
+    {
+      "projectname": "HAZOP 012",
+      "actionsummary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
+      "duedate": "12/10/2019",
+      "stretegicreviewduedate": "04/11/2019",
+      "priority": "Med"
+    },
+    {
+      "projectname": "East Refinary",
+      "actionsummary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
+      "duedate": "17/10/2019",
+      "stretegicreviewduedate": "17/10/2019",
+      "priority": "High"
+    },
+    {
+      "projectname": "HAZOP 012",
+      "actionsummary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
+      "duedate": "12/10/2019",
+      "stretegicreviewduedate": "04/11/2019",
+      "priority": "Med"
+    },
+    {
+      "projectname": "Export 8700 Project",
+      "actionsummary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
+      "duedate": "17/10/2019",
+      "stretegicreviewduedate": "17/10/2019",
+      "priority": "High"
+    },
+    {
+      "projectname": "HAZOP 012",
+      "actionsummary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
+      "duedate": "12/10/2019",
+      "stretegicreviewduedate": "04/11/2019",
+      "priority": "Med"
+    },
+    {
+      "projectname": "Emissions System",
+      "actionsummary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
+      "duedate": "17/10/2019",
+      "stretegicreviewduedate": "17/10/2019",
+      "priority": "High"
+    },
+    {
+      "projectname": "HAZOP 012",
+      "actionsummary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
+      "duedate": "12/10/2019",
+      "stretegicreviewduedate": "04/11/2019",
+      "priority": "Med"
+    },
+    {
+      "projectname": "Investigation of Power Consumption",
       "actionsummary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
       "duedate": "17/10/2019",
       "stretegicreviewduedate": "17/10/2019",
