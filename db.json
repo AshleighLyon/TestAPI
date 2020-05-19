@@ -1,122 +1,39 @@
 {
-  "Actions": [
-    {
-      "Project Name": "HAZOP 002",
-      "Action Summary": "Consider adding new valve VB1-DD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "26/10/2019",
-      "Reference" : "002563",
-      "Stretegic Review Due Date": "13/11/2019",
-      "Priority": "High"
-    },
-    {
-      "Project Name": "Flare Gas Pilot Project",
-      "Action Summary": "Install blind without tap-in on connection.",
-      "Due Date": "02/11/2019",
-      "Reference" : "008863",
-      "Stretegic Review Due Date": "23/10/2019",
-      "Priority": "Low"
-    },
-    {
-      "Project Name": "HAZOP Function 12",
-      "Action Summary": "Consider adding new valve VJF1-ADDD to the locked closed register. Consider adding new valve VB1-DD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "12/10/2019",
-      "Reference" : "011163",
-      "Stretegic Review Due Date": "04/11/2019",
-      "Priority": "Med"
-    },
-    {
-      "Project Name": "HAZOP 022",
-      "Action Summary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "17/10/2019",
-      "Reference" : "252563",
-      "Stretegic Review Due Date": "17/10/2019",
-      "Priority": "High"
-    },
-    {
-      "Project Name": "HAZOP 092",
-      "Action Summary": "Consider adding new valve VJF1-ADDD to the locked closed register. Consider adding new valve VB1-DD to the locked closed register or install blind without tap-in on connection",
-      "Due Date": "12/10/2019",
-      "Reference" : "251223",
-      "Stretegic Review Due Date": "04/11/2019",
-      "Priority": "Med"
-    },
-    {
-      "Project Name": "Energy Saving Project",
-      "Action Summary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "17/10/2019",
-      "Reference" : "",
-      "Stretegic Review Due Date": "17/10/2019",
-      "Priority": "High"
-    },
-    {
-      "Project Name": "HAZOP High 0078",
-      "Action Summary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
-      "Due Date": "12/10/2019",
-      "Reference" : "002565",
-      "Stretegic Review Due Date": "04/11/2019",
-      "Priority": "Med"
-    },
-    {
-      "Project Name": "East Refinary",
-      "Action Summary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "17/10/2019",
-      "Reference" : "478563",
-      "Stretegic Review Due Date": "17/10/2019",
-      "Priority": "High"
-    },
-    {
-      "Project Name": "HAZOP 047",
-      "Action Summary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
-      "Due Date": "12/10/2019",
-      "Reference" : "254163",
-      "Stretegic Review Due Date": "04/11/2019",
-      "Priority": "Med"
-    },
-    {
-      "Project Name": "Export 8700 Project",
-      "Action Summary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "17/10/2019",
-      "Reference" : "006598",
-      "Stretegic Review Due Date": "17/10/2019",
-      "Priority": "High"
-    },
-    {
-      "Project Name": "HAZOP System Gas",
-      "Action Summary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
-      "Due Date": "12/10/2019",
-      "Reference" : "025898",
-      "Stretegic Review Due Date": "04/11/2019",
-      "Priority": "Med"
-    },
-    {
-      "Project Name": "Emissions System",
-      "Action Summary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection. Consider adding new valve VB1-DD to the locked closed register or install blind without tap-in on connection",
-      "Due Date": "17/10/2019",
-      "Reference" : "",
-      "Stretegic Review Due Date": "17/10/2019",
-      "Priority": "High"
-    },
-    {
-      "Project Name": "HAZOP 0JJ67B",
-      "Action Summary": "Consider adding new valve VJF1-ADDD to the locked closed register.",
-      "Due Date": "12/10/2019",
-      "Reference" : "256541",
-      "Stretegic Review Due Date": "04/11/2019",
-      "Priority": "Med"
-    },
-    {
-      "Project Name": "Investigation of Power Consumption",
-      "Action Summary": "New valve V791-AD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "17/10/2019",
-      "Stretegic Review Due Date": "17/10/2019",
-      "Priority": "High"
-    },
-    {
-      "Project Name": "HAZOP 052",
-      "Action Summary": "Consider adding new valve VBF1-AD to the locked closed register or install blind without tap-in on connection.",
-      "Due Date": "13/12/2019",
-      "Stretegic Review Due Date": "13/11/2019",
-      "Priority": "Med"
-    }
-  ]
+    "hazards": [
+        {
+            "id": 1,
+            "task": "Moving Bins and Waste",
+            "hazards": "Musculo-Skeletal Disorders through incorrect techniques including: lifting/putting down.",
+            "controlMeasures": "Follow correct Manual Handling Techniques.",
+            "sort": 1
+        },
+        {
+            "id": 2,
+            "task": "Hazardous Substances",
+            "hazards": "Harm from ingestion/inhalation of hazardous substances. Harm from contact with skin/eyes. Exposure to Asbestos containing materials.",
+            "controlMeasures": "Wear coveralls, protective gloves & safety glasses(as necessary).Secure substances in lockable cabinet to prevent unauthorised access by others. Provide Manufacturers Safety Data Sheets(MSDS's). Read 'Asbestos Containing Materials' Risk Assessment.",
+            "sort": 2
+        },
+        {
+            "id": 3,
+            "task": "High Risk of Stick Injury",
+            "hazards": "Exposure to pathogens.",
+            "controlMeasures": "If spotted do not handle, wear PPE in high risk areas.",
+            "sort": 3
+        },
+        {
+            "id": 4,
+            "task": "No Asbestos on Site",
+            "hazards": "Exposure to asbestos.",
+            "controlMeasures": "Do not enter.",
+            "sort": 4
+        },
+        {
+            "id": 5,
+            "task": "Slips, Trips & Falls at Ground Level",
+            "hazards": "Slip, Trip, Fall Hazard from slippery (wet, icy, oily) surfaces, materials, work equipment, uneven surfaces, steps in work area.",
+            "controlMeasures": "Clean/Clear work area of hazards or barrier off where hazard still exists. Materials / Tools must be stored away from walkways.",
+            "sort": 5
+        }
+    ]
 }
