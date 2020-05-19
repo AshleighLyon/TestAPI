@@ -5,6 +5,7 @@
             "task": "Moving Bins and Waste",
             "hazards": "Musculo-Skeletal Disorders through incorrect techniques including: lifting/putting down.",
             "controlMeasures": "Follow correct Manual Handling Techniques.",
+            "compliant": "true",
             "sort": 1
         },
         {
@@ -12,6 +13,7 @@
             "task": "Hazardous Substances",
             "hazards": "Harm from ingestion/inhalation of hazardous substances. Harm from contact with skin/eyes. Exposure to Asbestos containing materials.",
             "controlMeasures": "Wear coveralls, protective gloves & safety glasses(as necessary).Secure substances in lockable cabinet to prevent unauthorised access by others. Provide Manufacturers Safety Data Sheets(MSDS's). Read 'Asbestos Containing Materials' Risk Assessment.",
+            "compliant": "true",
             "sort": 2
         },
         {
@@ -19,6 +21,7 @@
             "task": "High Risk of Stick Injury",
             "hazards": "Exposure to pathogens.",
             "controlMeasures": "If spotted do not handle, wear PPE in high risk areas.",
+            "compliant": "true",
             "sort": 3
         },
         {
@@ -26,6 +29,7 @@
             "task": "No Asbestos on Site",
             "hazards": "Exposure to asbestos.",
             "controlMeasures": "Do not enter.",
+            "compliant": "true",
             "sort": 4
         },
         {
@@ -33,6 +37,7 @@
             "task": "Slips, Trips & Falls at Ground Level",
             "hazards": "Slip, Trip, Fall Hazard from slippery (wet, icy, oily) surfaces, materials, work equipment, uneven surfaces, steps in work area.",
             "controlMeasures": "Clean/Clear work area of hazards or barrier off where hazard still exists. Materials / Tools must be stored away from walkways.",
+            "compliant": "true",
             "sort": 5
         }
     ]
