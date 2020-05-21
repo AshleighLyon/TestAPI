@@ -39,6 +39,14 @@
             "controlMeasures": "Clean/Clear work area of hazards or barrier off where hazard still exists. Materials / Tools must be stored away from walkways.",
             "compliant": "true",
             "sort": 5
+        },
+        {
+            "id": 6,
+            "task": "Testing - New Task Name",
+            "hazards": "Testing - risk of whoch hazard added to this area here.",
+            "controlMeasures": "Testing - Lorem ipsum control measures text added in this section.",
+            "compliant": "true",
+            "sort": 6
         }
     ]
 }
