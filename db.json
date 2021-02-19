@@ -1,52 +1,71 @@
 {
-    "hazards": [
+    "VersionId": "0.0.0",
+    "Timestamp": "",
+    "ClientId": "",
+    "MhfaId": "",
+    "Groups": [
         {
-            "id": 1,
-            "task": "Moving Bins and Waste",
-            "hazards": "Musculo-Skeletal Disorders through incorrect techniques including: lifting/putting down.",
-            "controlMeasures": "Follow correct Manual Handling Techniques.",
-            "compliant": "true",
-            "sort": 1
-        },
-        {
-            "id": 2,
-            "task": "Hazardous Substances",
-            "hazards": "Harm from ingestion/inhalation of hazardous substances. Harm from contact with skin/eyes. Exposure to Asbestos containing materials.",
-            "controlMeasures": "Wear coveralls, protective gloves & safety glasses(as necessary).Secure substances in lockable cabinet to prevent unauthorised access by others. Provide Manufacturers Safety Data Sheets(MSDS's). Read 'Asbestos Containing Materials' Risk Assessment.",
-            "compliant": "true",
-            "sort": 2
-        },
-        {
-            "id": 3,
-            "task": "High Risk of Stick Injury",
-            "hazards": "Exposure to pathogens.",
-            "controlMeasures": "If spotted do not handle, wear PPE in high risk areas.",
-            "compliant": "true",
-            "sort": 3
-        },
-        {
-            "id": 4,
-            "task": "No Asbestos on Site",
-            "hazards": "Exposure to asbestos.",
-            "controlMeasures": "Do not enter.",
-            "compliant": "true",
-            "sort": 4
-        },
-        {
-            "id": 5,
-            "task": "Slips, Trips & Falls at Ground Level",
-            "hazards": "Slip, Trip, Fall Hazard from slippery (wet, icy, oily) surfaces, materials, work equipment, uneven surfaces, steps in work area.",
-            "controlMeasures": "Clean/Clear work area of hazards or barrier off where hazard still exists. Materials / Tools must be stored away from walkways.",
-            "compliant": "true",
-            "sort": 5
-        },
-        {
-            "id": 6,
-            "task": "Testing - New Task Name",
-            "hazards": "Testing - risk of whoch hazard added to this area here.",
-            "controlMeasures": "Testing - Lorem ipsum control measures text added in this section.",
-            "compliant": "true",
-            "sort": 6
+            "Name": "Group 1", 
+            "Questions": [
+                {
+                    "Text": "Do you like sticky toffee pudding?",
+                    "Answers": [
+                        {
+                            "Text": "Yes", 
+                            "Indicator": 
+                            {
+                                "Area": "",
+                                "Weight": 0
+                            }
+                        },
+                        {
+                            "Text": "No", 
+                            "Indicator": 
+                            {
+                                "Area": "",
+                                "Weight": 0
+                            }
+                        }
+                    ],
+                    "Response": {
+                        "Text": "", 
+                        "Indicator": 
+                        {
+                            "Area": "",
+                            "Weight": 0
+                        }
+                    }
+                },
+                {
+                    "Text": "Do you think puppies are the cutest?",
+                    "Answers": [
+                        {
+                            "Text": "Yes", 
+                            "Indicator": 
+                            {
+                                "Area": "",
+                                "Weight": 0
+                            }
+                        },
+                        {
+                            "Text": "No", 
+                            "Indicator": 
+                            {
+                                "Area": "",
+                                "Weight": 0
+                            }
+                        }
+                    ],
+                    "Response": {
+                        "Text": "", 
+                        "Indicator": 
+                        {
+                            "Area": "",
+                            "Weight": 0
+                        }
+                    }
+                }
+            ]
         }
     ]
 }
